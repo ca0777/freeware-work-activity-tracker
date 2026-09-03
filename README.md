@@ -28,6 +28,34 @@ Windows may show a first-run SmartScreen warning since the build is unsigned —
 - **Runs in the system tray** — closes to the tray, not gone; right-click for Show / Pause / Quit
 - **Launch at Windows login** — optional, one checkbox
 
+## Screenshots
+
+<table>
+<tr>
+<td width="33%">
+
+**Last 7 Days**
+
+![Last 7 Days view, listing active and idle hours for each of the past seven days with a running total](screenshots/last-7-days.png)
+
+</td>
+<td width="33%">
+
+**Full History**
+
+![Full activity history table, listing active and idle hours for every tracked day](screenshots/full-history.png)
+
+</td>
+<td width="33%">
+
+**App Usage**
+
+![App Usage view, listing which applications had focus and for how long during the day](screenshots/app-usage.png)
+
+</td>
+</tr>
+</table>
+
 ## Privacy
 
 - No keystrokes are ever recorded — only *whether* there was recent input, never *which* key
